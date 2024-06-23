@@ -8,4 +8,4 @@ innovative, results-driven digital experiences, web design, and branding.
 
 ---
 
-* [Agency](https://nextad.fr/agence)
+* [Agence](https://nextad.fr/agence)
